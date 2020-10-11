@@ -85,7 +85,7 @@ button{
 .main-section{
     background: url(https://www.nepad.org/sites/default/files/styles/mega_banner_1920x600/public/events-images/iStock-619643870%20%282%29.jpg?itok=VIypVKnM);
     background-position:center center;
-   
+    background-size:cover;
     
     
     
