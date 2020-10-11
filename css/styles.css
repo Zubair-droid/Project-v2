@@ -58,7 +58,7 @@ body{
     font-family: 'Poppins', sans-serif;
     color:whitesmoke;
     font-size: 1rem;
-    padding: 0% 18% 7%;
+    padding: 2% 18% 7%;
     margin-bottom: 20px;
     
     
@@ -76,7 +76,7 @@ button{
 
 .main-section{
     box-sizing:content-box;
-    height:90vh;
+    height:100vh;
    
     
   }
